@@ -4,9 +4,9 @@ This repository contains materials related to the paper titled **"Predictive Mod
 
 ## Repository Contents
 
-- `DT_predictive_model.ipynb`: A Jupyter notebook containing the implementation of the Decision Tree predictive model.
-- `ifood_df.csv`: Dataset used for developing and validating the predictive model.
-- **Paper**: [Predictive Modeling of Customer Response to Promotions Using Decision Trees](https://www.mdpi.com/2987288)
+`DT_predictive_model.ipynb`: A Jupyter notebook containing the implementation of the Decision Tree predictive model.
+`ifood_df.csv`: Dataset used for developing and validating the predictive model.
+**Paper**: [Predictive Modeling of Customer Response to Promotions Using Decision Trees](https://www.mdpi.com/2987288)
 
 ## Overview
 
